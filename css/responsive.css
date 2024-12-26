@@ -1,0 +1,13 @@
+
+
+/* 
+@media (max-width: 1000px) {
+    body {
+        background: blue;
+    }
+}
+@media (min-width: 1000px) {
+    body {
+        background: red;
+    }
+} */
